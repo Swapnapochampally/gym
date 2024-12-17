@@ -1,5 +1,4 @@
 #  💪 Responsive Gym Website Design
-### 💪 Responsive Gym Website Design
 
 - Responsive Gym Website Design Using HTML CSS & JavaScript
 - Contains animations when scrolling.
